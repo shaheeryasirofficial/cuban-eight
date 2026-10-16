@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 ## Overview
 
 Cuban Eight takes a Windows PE payload and packages it as a `.wsl` file  the double-click installer format used by real WSL distributions. The target opens it, Windows registers it as a Linux distro, and the payload executes immediately through WSL's interop layer.

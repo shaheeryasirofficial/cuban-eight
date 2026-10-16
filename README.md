@@ -170,7 +170,7 @@ The tool is named after it  one clean execution path, no wasted motion, exits cl
 - [WSL BOF Research  MayerDaniel](https://github.com/MayerDaniel/the-one-wsl-bof)
 - [Build a Custom WSL Distro  Microsoft Docs](https://learn.microsoft.com/lb-lu/windows/wsl/build-custom-distro)
 - [WSL Payloads  dmcxblue](https://github.com/dmcxblue/WSL-Payloads)
-- [WSL Payload Delivery  YouTube](https://youtu.be/8derKdV8Tbs?si=lORiLr2FKWzWML39)
+- [Modern Initial Access 2026](https://youtu.be/8derKdV8Tbs?si=lORiLr2FKWzWML39)
 
 ---
 

@@ -1,6 +1,6 @@
 # Cuban Eight
 
-![Cuban Eight](https://github.com/shaheeryasirofficial/cuban-eight/tree/main/cuban-eight/cuban.png)
+![Cuban Eight](cuban-eight/cuban.png)
 
 WSL Distro Packager for Red Team Research
 
@@ -21,7 +21,7 @@ The packaged distro spoofs a real distribution identity: Ubuntu, Debian, Kali, o
 
 ## Demo
 
-![Beacon Demo](https://github.com/shaheeryasirofficial/cuban-eight/tree/main/cuban-eight/beacon.png)
+![Demo](cuban-eight/beacon.png)
 
 The beacon connects back within seconds of the target double-clicking the `.wsl` file. The WSL window that briefly appears closes automatically once the payload runs.
 
